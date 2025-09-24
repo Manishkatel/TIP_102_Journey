@@ -1,4 +1,5 @@
-"Reversing the linked list python"
+#Reversing the linked list python
+# OR I can call this a three pointer algorithm for remembering easily
 
 class Node:
     def __init__(self, data):
